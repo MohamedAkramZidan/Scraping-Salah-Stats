@@ -1,4 +1,7 @@
 # Mohamed Salah Premier League All Seasons Stats
+
+## You can download all CSV from Kaggle [here](https://www.kaggle.com/datasets/mohamedakramzidan/mohamed-salah-premier-league-all-seasons-stats)
+
 This project scrapes, processes, and consolidates Premier League match data for Mohamed Salah from FBref.com across multiple seasons.
 
 ✅ Project Summary
